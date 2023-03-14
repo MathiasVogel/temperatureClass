@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Element
+comment1.params=solidFromInCelsius\ gaseousFromInCelsius
+comment1.target=Element(int,\ int)
+comment2.params=
+comment2.target=int\ getSolidFromInCelsius()
+comment3.params=
+comment3.target=int\ getGaseiusFromInCelsius()
+numComments=4
